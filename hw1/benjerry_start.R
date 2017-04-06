@@ -1,5 +1,5 @@
 #### Purchases of Ben and Jerry's Ice Cream
-setwd("/Users/jirasak/Documents/workspace/r-workspace/bigdataclass/Week 2/hw")
+setwd("hw1")
 #### Purchases of Ben and Jerry's Ice Cream
 
 benjer = read.csv("BenAndJerry.csv")
