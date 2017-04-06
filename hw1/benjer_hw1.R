@@ -2,7 +2,7 @@
 setwd("/Users/jirasak/Documents/workspace/r-workspace/bigdataclass/Week 2/hw")
 benjer = read.csv("BenAndJerry.csv")
 
-## explore a bit
+## explore a bit test test
 names(benjer)
 
 ##################################################
